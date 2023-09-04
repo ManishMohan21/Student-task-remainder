@@ -1,15 +1,5 @@
 # MAD-Mini-Project
 
-Study with Teddy – Mobile Application – 2nd Year Group Project
-
-This project was carried out using Java with Android studio with Firebase.
+The Student Task Reminder (STR) will help a student helps a student to organize and execute his work effectively, efficiently and punctually . The main focus of the app is also to divide student work into pomodoros which help the student to do work without stressing oneself in the process and to help student make notes which are easy to read and revise .
 
 
-# Contributors
-Group Leader - Mr. Chathum Dewanmina Adhihetty (Chathum10)
-
-Member 2 - Ms. Pawani Muthusala Perera(MuthusalaPerera)
-
-Member 3 - Ms. Gangamini Athmaja Suriyawatta (GangaminiAthmaja)
-
-Member 4 - Ms.Piyumika Kavindi Almeda (PIYUMI99)
